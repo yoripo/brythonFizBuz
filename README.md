@@ -1,1 +1,4 @@
 # brythonFizBuz
+
+htmlからbrythonをCDNで使用し
+pythonファイルの実行結果を出力する
